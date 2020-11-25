@@ -167,7 +167,7 @@ Berikut ini adalah output layar yang di tampilkan sesuai dengan kode syntax dan 
 Dan di bawah ini merupakan penjelasan dan syntax yang telah di jelaskan sebelumnya dalam bentuk Flowchart
 
 ![Syntax](Gambar/FlowchartLab5(1).png)
-***Lanjutan dari flowchart pertama***
+(***Lanjutan dari flowchart pertama***)
 ![Syntax](Gambar/FlowchartLab5(2).png)
 
 ## Sekian dari saya terima kasih
