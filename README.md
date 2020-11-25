@@ -138,14 +138,23 @@ Berikut ini adalah output layar yang di tampilkan sesuai dengan kode syntax dan 
 3. Menampilkan Output data yang telah di simpan di database
    ![Syntax](Gambar/Output/OutputLLab5.png)
 4. Mengubah data yang telah di simpan pada database
+   
    ![Syntax](Gambar/Output/OutputULab5(Semua).png)
+   
    Mengubah NIM Mahasiswa
+   
    ![Syntax](Gambar/Output/OutputULab5(NIM).png)
+   
    Mengubah Nilai Tugas Mahasiswa
+   
    ![Syntax](Gambar/Output/OutputULab5(Tugas).png)
+   
    Mengubah Nilai UTS Mahasiswa
+   
    ![Syntax](Gambar/Output/OutputULab5(UTS).png)
+   
    Mengubah Nilai UAS Mahasiswa
+   
    ![Syntax](Gambar/Output/OutputULab5(UAS).png)
 5. Mencari data mahasiswa yang telah tersimpan di database
    ![Syntax](Gambar/Output/OutputCLab5.png)
