@@ -122,8 +122,9 @@ Dengan begitu dapat di jelaskan bahwa :
 ![Syntax](Gambar/PenjelasanLab5(4).png), kode inputan tersebut terdiri dari kondisi elif, perulangan for yang berfungsi untuk memasukkan data kedalam database jika telah masuk ke dalam database maka tabel akan muncul sesuai dengan data yang telah di inputkan ke dalam database.
 - `elif menu.lower() == 'u':` kondisi elif digunakan untuk mengubah data yang ada di dalam database dan menampilkan data tersebut dalam bentuk tabel setelah mengubah data dan dengan kode input lanjutan kondisi elif yaitu,
 ![Syntax](Gambar/PenjelasanLab5(5).png)
-- `elif menu.lower() == 'c':` kondisi elif yang digunakan sebagai pencarian data yang telah di inputkan ke dalam database jika data sudah di temukan akan menampilkan data secara terurut dengan garis baru yang di mulai dari Nama, Nim, Nilai Tugas, UTS, UAS, dan Nilai Akhir dengan kode inputan 
-![Syntax](Gambar/PenjelasanLab5(6).png)
+- `elif menu.lower() == 'c':` kondisi elif yang digunakan sebagai pencarian data yang telah di inputkan ke dalam database jika data sudah di temukan akan menampilkan data secara terurut dengan garis baru yang di mulai dari Nama, Nim, Nilai Tugas, UTS, UAS, dan Nilai Akhir dengan kode inputan, yaitu : 
+
+    ![Syntax](Gambar/PenjelasanLab5(6).png)
 - `elif menu.lower() == 'h':` kondisi elif yang digunakan untuk menghapus data yang ada di dalam database dengan kode inputan 
 
     ![Syntax](Gambar/PenjelasanLab5(7).png)
