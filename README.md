@@ -116,16 +116,16 @@ Dengan begitu dapat di jelaskan bahwa :
 - `while True:` menggunakan perulangan while untuk di setiap menu dictionary untuk menyatakan kondisi true / false.
 - lalu masukkan kode inputan dengan variabel L untuk Lihat, T untuk Tambah data, U untuk mengubah data, H untuk hapus data yang telah di inputkan, C untuk Cari data yang sudah di input, K untuk menyelesaikan menu atau berhenti dengan kode inputan ![Syntax](Gambar/PenjelasanLab5(2).png)
 - `if menu.lower() == 'k':
-        break` kondisi if untuk memasukkan metode menu pada tabel yang berfungsi untuk keluar.
-- `elif menu.lower() == 'l':` kondisi if elif untuk memasukkan metode menu tabel berfungsi untuk melihat data yang terinput, lalu tampilkan tabel dan data yang telah tersimpan di database dengan kode inputan ![Syntax](Gambar/PenjelasanLab5(3).png)
--  `elif menu.lower() == 't':` kondisi elif untuk memasukkan metode menginputkan data secara manual, 
+        break` kondisi if untuk memasukkan metode menu pada tabel yang berfungsi untuk keluar dan .lower digunakan untuk mengubah setiap karakter di string menjadi kapital.
+- `elif menu.lower() == 'l':` kondisi if elif untuk memasukkan metode menu tabel berfungsi untuk melihat data yang terinput, lalu tampilkan tabel dan data yang telah tersimpan di database dan .lower digunakan untuk mengubah setiap karakter di string menjadi kapital dengan kode inputan ![Syntax](Gambar/PenjelasanLab5(3).png)
+-  `elif menu.lower() == 't':` kondisi elif untuk memasukkan metode menginputkan data secara manual dan .lower digunakan untuk mengubah setiap karakter di string menjadi kapital, 
 ![Syntax](Gambar/PenjelasanLab5(4).png), kode inputan tersebut terdiri dari kondisi elif, perulangan for yang berfungsi untuk memasukkan data kedalam database jika telah masuk ke dalam database maka tabel akan muncul sesuai dengan data yang telah di inputkan ke dalam database.
-- `elif menu.lower() == 'u':` kondisi elif digunakan untuk mengubah data yang ada di dalam database dan menampilkan data tersebut dalam bentuk tabel setelah mengubah data dan dengan kode input lanjutan kondisi elif yaitu,
+- `elif menu.lower() == 'u':` kondisi elif digunakan untuk mengubah data yang ada di dalam database dan menampilkan data tersebut dalam bentuk tabel setelah mengubah data dan .lower digunakan untuk mengubah setiap karakter di string menjadi kapital, berikut kode input lanjutan kondisi elif yaitu,
 ![Syntax](Gambar/PenjelasanLab5(5).png)
 - `elif menu.lower() == 'c':` kondisi elif yang digunakan sebagai pencarian data yang telah di inputkan ke dalam database jika data sudah di temukan akan menampilkan data secara terurut dengan garis baru yang di mulai dari Nama, Nim, Nilai Tugas, UTS, UAS, dan Nilai Akhir dengan kode inputan, yaitu : 
 
     ![Syntax](Gambar/PenjelasanLab5(6).png)
-- `elif menu.lower() == 'h':` kondisi elif yang digunakan untuk menghapus data yang ada di dalam database dengan kode inputan 
+- `elif menu.lower() == 'h':` kondisi elif yang digunakan untuk menghapus data yang ada di dalam database dan .lower digunakan untuk mengubah setiap karakter di string menjadi kapital dengan kode inputan 
 
     ![Syntax](Gambar/PenjelasanLab5(7).png)
 
